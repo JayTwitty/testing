@@ -15,7 +15,7 @@
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/testing$currency_converter.coverage" NAME="currency_converter Coverage Results" MODIFIED="1455657296268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/testing$Currency_converter_tests.coverage" NAME="Currency converter tests Coverage Results" MODIFIED="1455657768979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/testing$Currency_converter_tests.coverage" NAME="Currency converter tests Coverage Results" MODIFIED="1455704438220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/testing$test_currency_converter_better.coverage" NAME="test_currency_converter_better Coverage Results" MODIFIED="1455654352858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/testing$test_currency_converter.coverage" NAME="test_currency_converter Coverage Results" MODIFIED="1455657391728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
@@ -32,7 +32,7 @@
         <entry file="file://$PROJECT_DIR$/test_currency_converter.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="16" column="65" selection-start-line="14" selection-start-column="0" selection-end-line="16" selection-end-column="134" />
+              <caret line="11" column="10" selection-start-line="11" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding>
                 <element signature="e#1#43#0" expanded="true" />
               </folding>
@@ -53,8 +53,8 @@
       <file leaf-file-name="test_currency_converter_better.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test_currency_converter_better.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.84415585">
-              <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+            <state vertical-scroll-proportion="1.1298702">
+              <caret line="29" column="52" selection-start-line="29" selection-start-column="52" selection-end-line="29" selection-end-column="52" />
               <folding>
                 <element signature="e#1#16#0" expanded="true" />
               </folding>
@@ -438,24 +438,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Currency_converter_tests - 2016.02.16 at 15h 30m 26s.xml">
-      <configuration name="Currency converter tests" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Currency_converter_tests - 2016.02.16 at 15h 30m 45s.xml">
-      <configuration name="Currency converter tests" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Currency_converter_tests - 2016.02.16 at 15h 30m 51s.xml">
-      <configuration name="Currency converter tests" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Currency_converter_tests - 2016.02.16 at 15h 30m 57s.xml">
-      <configuration name="Currency converter tests" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Currency_converter_tests - 2016.02.16 at 15h 39m 32s.xml">
-      <configuration name="Currency converter tests" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Currency_converter_tests - 2016.02.16 at 15h 50m 43s.xml">
-      <configuration name="Currency converter tests" configurationId="tests" />
-    </history-entry>
     <history-entry file="Currency_converter_tests - 2016.02.16 at 16h 17m 42s.xml">
       <configuration name="Currency converter tests" configurationId="tests" />
     </history-entry>
@@ -466,6 +448,24 @@
       <configuration name="Currency converter tests" configurationId="tests" />
     </history-entry>
     <history-entry file="Currency_converter_tests - 2016.02.16 at 16h 22m 49s.xml">
+      <configuration name="Currency converter tests" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Currency_converter_tests - 2016.02.16 at 16h 34m 00s.xml">
+      <configuration name="Currency converter tests" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Currency_converter_tests - 2016.02.16 at 16h 34m 23s.xml">
+      <configuration name="Currency converter tests" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Currency_converter_tests - 2016.02.16 at 16h 38m 35s.xml">
+      <configuration name="Currency converter tests" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Currency_converter_tests - 2016.02.16 at 16h 40m 19s.xml">
+      <configuration name="Currency converter tests" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Currency_converter_tests - 2016.02.17 at 05h 19m 01s.xml">
+      <configuration name="Currency converter tests" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Currency_converter_tests - 2016.02.17 at 05h 20m 38s.xml">
       <configuration name="Currency converter tests" configurationId="tests" />
     </history-entry>
   </component>
@@ -520,7 +520,7 @@
     <entry file="file://$PROJECT_DIR$/test_currency_converter.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="65" selection-start-line="14" selection-start-column="0" selection-end-line="16" selection-end-column="134" />
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding>
             <element signature="e#1#43#0" expanded="true" />
           </folding>
@@ -529,8 +529,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test_currency_converter_better.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.84415585">
-          <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+        <state vertical-scroll-proportion="1.1298702">
+          <caret line="29" column="52" selection-start-line="29" selection-start-column="52" selection-end-line="29" selection-end-column="52" />
           <folding>
             <element signature="e#1#16#0" expanded="true" />
           </folding>
